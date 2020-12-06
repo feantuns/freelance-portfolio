@@ -5,4 +5,4 @@ It's important to say that all of the projects here listed were not designed by 
 
 Also, since I was paid to code the websites for specific clients, I cannot show the code, only the prints of what was the final result of each project.
 
-[Samsung Projects](google.com)
+[Samsung Projects](samsung)
